@@ -1,0 +1,464 @@
+{
+  "site": {
+    "name": "Salón Luna",
+    "tagline": "Tu belleza, nuestro arte",
+    "description": "Salón de belleza profesional especializado en cortes, coloración, tratamientos capilares y servicios de estética. Ubicados en el corazón de Buenos Aires.",
+    "logo": "/images/logo.png"
+  },
+  "home": {
+    "hero": {
+      "title": "Salón Luna",
+      "subtitle": "Tu refugio de belleza natural",
+      "description": "Un espacio donde el tiempo se detiene. Creemos en una belleza sin artificios, enfocada en tu bienestar y en resaltar tu esencia única.",
+      "cta": "Reserva tu momento",
+      "ctaLink": "/reserva",
+      "image": "/images/hero-salon.jpg"
+    },
+    "featuredServices": [
+      {
+        "id": "corte-mujer",
+        "name": "Corte Consciente",
+        "description": "Diseño personalizado que respeta la caída natural de tu cabello.",
+        "duration": "45 min de pausa",
+        "icon": "✂️",
+        "image": "/images/services/corte-mujer.jpg"
+      },
+      {
+        "id": "coloracion",
+        "name": "Coloración Orgánica",
+        "description": "Tonos vibrantes y saludables con productos amigables.",
+        "duration": "120 min de ritual",
+        "icon": "🎨",
+        "image": "/images/services/coloracion.jpg"
+      },
+      {
+        "id": "tratamiento-capilar",
+        "name": "Ritual de Hidratación",
+        "description": "Restauración profunda para devolverle la vida a tu pelo.",
+        "duration": "60 min de relax",
+        "icon": "🌿",
+        "image": "/images/services/tratamiento.jpg"
+      },
+      {
+        "id": "peinado-evento",
+        "name": "Styling Natural",
+        "description": "Peinados que duran y se sienten como vos.",
+        "duration": "90 min de arte",
+        "icon": "✨",
+        "image": "/images/services/peinado.jpg"
+      }
+    ],
+    "featuredProfessionals": [
+      {
+        "id": "maria-gonzalez",
+        "name": "María González",
+        "title": "Estilista Senior",
+        "bio": "Especialista en color y luz. Su enfoque es crear armonía entre tu cabello y tu rostro.",
+        "photo": "/images/professionals/maria.jpg",
+        "specialties": ["Coloración", "Balayage", "Corte"],
+        "instagram": "@mariagonzalez_hair"
+      },
+      {
+        "id": "juan-martinez",
+        "name": "Juan Martínez",
+        "title": "Master Barber",
+        "bio": "Precisión y estilo. Juan combina la barbería clásica con un toque moderno y relajado.",
+        "photo": "/images/professionals/juan.jpg",
+        "specialties": ["Corte Hombre", "Barba", "Styling"],
+        "instagram": "@juanmartinez_barber"
+      },
+      {
+        "id": "sofia-rodriguez",
+        "name": "Sofía Rodríguez",
+        "title": "Tricóloga",
+        "bio": "Apasionada por la salud capilar. Sofía te ayuda a recuperar la fuerza natural de tu pelo.",
+        "photo": "/images/professionals/sofia.jpg",
+        "specialties": ["Salud Capilar", "Tratamientos", "Bienestar"],
+        "instagram": "@sofiarodriguez_hair"
+      }
+    ],
+    "ctaSection": {
+      "title": "¿Listas para una pausa?",
+      "subtitle": "Regalate un momento para vos. Reservá tu turno online de forma simple y rápida.",
+      "cta": "Reserva tu ritual",
+      "ctaLink": "/reserva",
+      "benefits": [
+        "Reserva inmediata",
+        "Sin esperas",
+        "Profesionales expertos",
+        "Ambiente relajado"
+      ]
+    },
+    "contactPreview": {
+      "title": "Encontranos",
+      "address": "Av. Santa Fe 2450, Palermo, CABA",
+      "phone": "+54 11 4831-2200",
+      "email": "hola@salonluna.com.ar",
+      "whatsapp": "+54 9 11 6789-1234"
+    }
+  },
+  "professionals": {
+    "header": {
+      "title": "Nuestro Equipo",
+      "subtitle": "Profesionales apasionados con años de experiencia en las últimas tendencias y técnicas",
+      "description": "Cada miembro de nuestro equipo se actualiza constantemente para brindarte el mejor servicio. Todos nuestros estilistas están certificados y especializados en diferentes áreas."
+    },
+    "items": [
+      {
+        "id": "maria-gonzalez",
+        "name": "María González",
+        "title": "Estilista Senior & Color Specialist",
+        "bio": "Con más de 12 años de experiencia, María se especializa en técnicas de coloración avanzada y cortes modernos. Certificada internacionalmente en balayage y color correction.",
+        "longBio": "María comenzó su carrera en 2012 y desde entonces ha trabajado en algunos de los salones más prestigiosos de Buenos Aires. Se especializa en técnicas de coloración como balayage, babylights y corrección de color. Ha participado en numerosos cursos internacionales en Nueva York y París. Su filosofía es crear looks naturales que resalten la belleza única de cada cliente.",
+        "photo": "/images/professionals/maria.jpg",
+        "specialties": ["Coloración Completa", "Balayage", "Corte Mujer", "Mechas"],
+        "certifications": [
+          "Certificación L'Oréal Professional",
+          "Master en Balayage - Redken NYC",
+          "Color Correction Specialist"
+        ],
+        "instagram": "@mariagonzalez_hair",
+        "experience": "12 años"
+      },
+      {
+        "id": "juan-martinez",
+        "name": "Juan Martínez",
+        "title": "Master Barber & Estilista",
+        "bio": "Experto en cortes clásicos y modernos para hombre. Juan combina técnicas tradicionales de barbería con las últimas tendencias en styling masculino.",
+        "longBio": "Juan tiene 10 años de experiencia en barbería tradicional y corte masculino. Formado en la escuela clásica de barbería, incorpora constantemente nuevas técnicas y tendencias. Es conocido por su precisión en fades, degradados y diseños creativos. También se especializa en cuidado y styling de barba.",
+        "photo": "/images/professionals/juan.jpg",
+        "specialties": ["Corte Hombre", "Barba y Bigote", "Fade", "Diseño"],
+        "certifications": [
+          "Master Barber Certificate",
+          "Styling Masculino Avanzado",
+          "Técnicas de Fade Profesional"
+        ],
+        "instagram": "@juanmartinez_barber",
+        "experience": "10 años"
+      },
+      {
+        "id": "sofia-rodriguez",
+        "name": "Sofía Rodríguez",
+        "title": "Especialista en Tratamientos Capilares",
+        "bio": "Sofía es nuestra experta en salud capilar. Con formación en tricología, ofrece tratamientos personalizados para todo tipo de cabello.",
+        "longBio": "Sofía es licenciada en cosmetología con especialización en tricología. Lleva 8 años dedicándose exclusivamente a la salud del cabello. Realiza diagnósticos personalizados y diseña tratamientos específicos para cada tipo de cuero cabelludo y fibra capilar. Es experta en tratamientos de hidratación, reconstrucción y alisados.",
+        "photo": "/images/professionals/sofia.jpg",
+        "specialties": ["Tratamiento Capilar", "Hidratación Profunda", "Alisado", "Botox Capilar"],
+        "certifications": [
+          "Lic. en Cosmetología",
+          "Especialización en Tricología",
+          "Certificación en Queratina Brasilera"
+        ],
+        "instagram": "@sofiarodriguez_hair",
+        "experience": "8 años"
+      },
+      {
+        "id": "valentina-lopez",
+        "name": "Valentina López",
+        "title": "Estilista & Maquilladora",
+        "bio": "Especializada en peinados para eventos, bodas y maquillaje profesional. Valentina crea looks únicos para tus momentos especiales.",
+        "longBio": "Valentina combina su pasión por el peinado y el maquillaje para crear looks completos para novias, eventos y sesiones fotográficas. Con 7 años de experiencia, ha trabajado en más de 200 bodas y eventos corporativos. Se especializa en peinados recogidos, semirecogidos y maquillaje natural y social.",
+        "photo": "/images/professionals/valentina.jpg",
+        "specialties": ["Peinado para Evento", "Peinado de Novia", "Maquillaje Social", "Maquillaje de Novia"],
+        "certifications": [
+          "Certificación en Maquillaje Profesional",
+          "Curso de Peinados para Novias",
+          "Workshop Peinados Editorial"
+        ],
+        "instagram": "@valentinalopez_beauty",
+        "experience": "7 años"
+      },
+      {
+        "id": "lucas-fernandez",
+        "name": "Lucas Fernández",
+        "title": "Estilista & Extensionista",
+        "bio": "Experto en extensiones de cabello natural y sintético. Lucas transforma tu look con técnicas innovadoras y resultados naturales.",
+        "longBio": "Lucas es nuestro especialista en extensiones capilares con 6 años de experiencia. Maneja todas las técnicas: micro anillos, keratina, cinta adhesiva y cosidas. También es experto en cortes modernos y técnicas de degradado. Su objetivo es lograr extensiones imperceptibles y naturales.",
+        "photo": "/images/professionals/lucas.jpg",
+        "specialties": ["Extensiones", "Corte Mujer", "Corte Hombre", "Degradado"],
+        "certifications": [
+          "Certificación en Extensiones Profesionales",
+          "Técnicas de Aplicación Great Lengths",
+          "Curso Avanzado de Corte"
+        ],
+        "instagram": "@lucasfernandez_extensions",
+        "experience": "6 años"
+      }
+    ]
+  },
+  "services": {
+    "header": {
+      "title": "Nuestros Servicios",
+      "subtitle": "Descubrí todo lo que podemos hacer por vos",
+      "description": "Ofrecemos una amplia gama de servicios profesionales con productos de primera calidad y las técnicas más avanzadas."
+    },
+    "categories": [
+      {
+        "id": "cabello",
+        "name": "Cabello",
+        "description": "Cortes, color y styling",
+        "icon": "✂️",
+        "services": [
+          {
+            "id": "corte-mujer",
+            "name": "Corte Mujer",
+            "shortDescription": "Corte personalizado según tu estilo",
+            "description": "Corte personalizado adaptado a tu tipo de rostro, textura de cabello y estilo de vida. Incluye lavado, corte, secado y peinado.",
+            "duration": "45 min",
+            "price": "$8000",
+            "features": ["Asesoramiento personalizado", "Lavado premium", "Secado y peinado incluido"]
+          },
+          {
+            "id": "corte-hombre",
+            "name": "Corte Hombre",
+            "shortDescription": "Corte clásico o moderno",
+            "description": "Desde cortes clásicos hasta los últimos trends urbanos. Incluye lavado, corte, secado y styling con productos profesionales.",
+            "duration": "30 min",
+            "price": "$6000",
+            "features": ["Técnicas fade y degradado", "Lavado incluido", "Productos de styling"]
+          },
+          {
+            "id": "coloracion-completa",
+            "name": "Coloración Completa",
+            "shortDescription": "Color vibrante de raíz a puntas",
+            "description": "Coloración completa de raíz a puntas con productos premium. Incluye diagnóstico capilar, aplicación, tiempo de exposición, lavado, tratamiento post-color y secado.",
+            "duration": "120 min",
+            "price": "$15000",
+            "features": ["Productos L'Oréal Professional", "Tratamiento post-color", "Secado incluido"]
+          },
+          {
+            "id": "mechas",
+            "name": "Mechas",
+            "shortDescription": "Iluminá tu cabello",
+            "description": "Mechas tradicionales o babylights para dar luz y dimensión a tu cabello. Técnica personalizada según el resultado deseado.",
+            "duration": "150 min",
+            "price": "$18000",
+            "features": ["Diferentes técnicas disponibles", "Matización incluida", "Tratamiento de brillo"]
+          },
+          {
+            "id": "balayage",
+            "name": "Balayage",
+            "shortDescription": "Técnica de coloración natural",
+            "description": "Técnica francesa de aplicación libre que crea un efecto degradado y natural. Ideal para un look sun-kissed.",
+            "duration": "180 min",
+            "price": "$22000",
+            "features": ["Efecto natural", "Bajo mantenimiento", "Matización personalizada"]
+          }
+        ]
+      },
+      {
+        "id": "tratamientos",
+        "name": "Tratamientos",
+        "description": "Cuidado y reparación capilar",
+        "icon": "💆",
+        "services": [
+          {
+            "id": "tratamiento-hidratacion",
+            "name": "Tratamiento de Hidratación",
+            "shortDescription": "Hidratación profunda",
+            "description": "Tratamiento intensivo de hidratación para cabellos secos y dañados. Devuelve suavidad, brillo y manejabilidad.",
+            "duration": "60 min",
+            "price": "$9000",
+            "features": ["Productos profesionales", "Masaje capilar", "Secado incluido"]
+          },
+          {
+            "id": "botox-capilar",
+            "name": "Botox Capilar",
+            "shortDescription": "Reparación intensiva",
+            "description": "Tratamiento de reconstrucción que rellena la fibra capilar, eliminando el frizz y aportando brillo extremo.",
+            "duration": "90 min",
+            "price": "$14000",
+            "features": ["Efecto anti-frizz", "Reparación profunda", "Resultados inmediatos"]
+          },
+          {
+            "id": "alisado",
+            "name": "Alisado de Keratina",
+            "shortDescription": "Liso perfecto y duradero",
+            "description": "Alisado progresivo con keratina que elimina el frizz y facilita el peinado diario. Duración de 3 a 4 meses.",
+            "duration": "180 min",
+            "price": "$25000",
+            "features": ["Keratina brasilera", "Reduce tiempo de peinado", "Efecto hasta 4 meses"]
+          },
+          {
+            "id": "cauterizacion",
+            "name": "Cauterización",
+            "shortDescription": "Sellado y nutrición",
+            "description": "Tratamiento que sella las cutículas y nutre el cabello en profundidad. Ideal para cabellos muy dañados.",
+            "duration": "75 min",
+            "price": "$11000",
+            "features": ["Sellado de cutículas", "Nutrición intensa", "Brillo extremo"]
+          }
+        ]
+      },
+      {
+        "id": "eventos",
+        "name": "Eventos & Ocasiones Especiales",
+        "description": "Peinados y maquillaje profesional",
+        "icon": "💫",
+        "services": [
+          {
+            "id": "peinado-evento",
+            "name": "Peinado para Evento",
+            "shortDescription": "Elegancia para tu ocasión especial",
+            "description": "Peinado profesional para fiestas, eventos corporativos y ocasiones especiales. Recogido, semirecogido o suelto con brushing.",
+            "duration": "60 min",
+            "price": "$10000",
+            "features": ["Prueba de peinado opcional", "Fijación duradera", "Accesorios disponibles"]
+          },
+          {
+            "id": "peinado-novia",
+            "name": "Peinado de Novia",
+            "shortDescription": "Tu look perfecto para el gran día",
+            "description": "Peinado exclusivo para novias. Incluye prueba previa, peinado el día del evento con fijación profesional para que dure toda la celebración.",
+            "duration": "90 min",
+            "price": "$18000",
+            "features": ["Prueba incluida", "A domicilio disponible", "Fijación ultra duradera"]
+          },
+          {
+            "id": "maquillaje-social",
+            "name": "Maquillaje Social",
+            "shortDescription": "Maquillaje para eventos",
+            "description": "Maquillaje profesional para fiestas y eventos. Natural, glamoroso o dramatic, adaptado a tu estilo y al tipo de evento.",
+            "duration": "45 min",
+            "price": "$9000",
+            "features": ["Productos profesionales", "Larga duración", "Pestañas postizas opcionales"]
+          },
+          {
+            "id": "maquillaje-novia",
+            "name": "Maquillaje de Novia",
+            "shortDescription": "Maquillaje para tu boda",
+            "description": "Maquillaje completo para novias con productos de larga duración. Incluye prueba previa y aplicación el día del evento.",
+            "duration": "75 min",
+            "price": "$15000",
+            "features": ["Prueba incluida", "A domicilio disponible", "Productos HD para foto"]
+          }
+        ]
+      },
+      {
+        "id": "hombre",
+        "name": "Servicios para Hombre",
+        "description": "Barbería y grooming",
+        "icon": "💈",
+        "services": [
+          {
+            "id": "barba-bigote",
+            "name": "Arreglo de Barba y Bigote",
+            "shortDescription": "Perfilado y styling",
+            "description": "Perfilado, recorte y styling de barba y bigote. Incluye toallas calientes y productos de grooming profesionales.",
+            "duration": "30 min",
+            "price": "$5000",
+            "features": ["Toallas calientes", "Aceites premium", "Perfilado preciso"]
+          },
+          {
+            "id": "corte-barba",
+            "name": "Corte + Barba",
+            "shortDescription": "Combo completo",
+            "description": "Servicio completo: corte de cabello y arreglo de barba. La opción perfecta para un look renovado.",
+            "duration": "60 min",
+            "price": "$10000",
+            "features": ["Lavado incluido", "Toallas calientes", "Productos de styling"]
+          },
+          {
+            "id": "afeitado-clasico",
+            "name": "Afeitado Clásico",
+            "shortDescription": "Experiencia tradicional",
+            "description": "Afeitado tradicional con navaja, toallas calientes y productos premium. Una experiencia de barbería clásica.",
+            "duration": "45 min",
+            "price": "$7000",
+            "features": ["Navaja profesional", "Ritual con toallas calientes", "Productos aftershave premium"]
+          }
+        ]
+      },
+      {
+        "id": "otros",
+        "name": "Otros Servicios",
+        "description": "Extensiones y más",
+        "icon": "✨",
+        "services": [
+          {
+            "id": "extensiones",
+            "name": "Colocación de Extensiones",
+            "shortDescription": "Largo y volumen instantáneo",
+            "description": "Aplicación de extensiones de cabello natural. Diferentes técnicas disponibles: micro anillos, keratina o cinta adhesiva.",
+            "duration": "180 min",
+            "price": "$30000",
+            "features": ["Cabello natural 100%", "Varias técnicas disponibles", "Asesoramiento personalizado"],
+            "note": "Precio no incluye el cabello. Consultá por opciones."
+          },
+          {
+            "id": "mantenimiento-extensiones",
+            "name": "Mantenimiento de Extensiones",
+            "shortDescription": "Cuidado y reposicionamiento",
+            "description": "Reposicionamiento y mantenimiento de extensiones existentes. Mantiene tu look impecable por más tiempo.",
+            "duration": "120 min",
+            "price": "$12000",
+            "features": ["Reposicionamiento", "Lavado y tratamiento", "Secado incluido"]
+          },
+          {
+            "id": "brushing",
+            "name": "Brushing / Secado",
+            "shortDescription": "Lavado y secado profesional",
+            "description": "Lavado con productos profesionales y secado con brushing. Incluye planchado o ondas si lo deseás.",
+            "duration": "45 min",
+            "price": "$6000",
+            "features": ["Productos premium", "Brushing profesional", "Planchado u ondas opcionales"]
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "header": {
+      "title": "Contacto",
+      "subtitle": "Estamos para ayudarte",
+      "description": "Visitanos, escribinos o llamanos. Estamos siempre disponibles para responder tus consultas."
+    },
+    "address": "Av. Santa Fe 2450, Palermo, Ciudad Autónoma de Buenos Aires",
+    "addressShort": "Av. Santa Fe 2450, Palermo, CABA",
+    "phone": "+54 11 4831-2200",
+    "whatsapp": "+54 9 11 6789-1234",
+    "email": "hola@salonluna.com.ar",
+    "schedule": [
+      {
+        "days": "Lunes a Viernes",
+        "hours": "9:00 - 20:00"
+      },
+      {
+        "days": "Sábados",
+        "hours": "9:00 - 18:00"
+      },
+      {
+        "days": "Domingos y Feriados",
+        "hours": "Cerrado"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.5!2d-58.4!3d-34.6!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDM2JzAwLjAiUyA1OMKwMjQnMDAuMCJX!5e0!3m2!1ses!2sar!4v1234567890",
+    "socialMedia": {
+      "instagram": "https://instagram.com/salonluna.ok",
+      "facebook": "https://facebook.com/salonluna",
+      "tiktok": "https://tiktok.com/@salonluna"
+    },
+    "cta": {
+      "title": "¿Preferís reservar directamente?",
+      "subtitle": "Reservá tu turno online en menos de 2 minutos",
+      "button": "Reservar Online",
+      "link": "/reserva"
+    }
+  },
+  "footer": {
+    "description": "Salón de belleza profesional con más de 15 años de experiencia en el corazón de Palermo.",
+    "quickLinks": [
+      { "name": "Home", "url": "/" },
+      { "name": "Profesionales", "url": "/profesionales" },
+      { "name": "Servicios", "url": "/servicios" },
+      { "name": "Reservar", "url": "/reserva" },
+      { "name": "Contacto", "url": "/contacto" }
+    ],
+    "legalLinks": [
+      { "name": "Términos y Condiciones", "url": "/terminos" },
+      { "name": "Política de Privacidad", "url": "/privacidad" },
+      { "name": "Política de Cancelación", "url": "/cancelacion" }
+    ],
+    "copyright": "2025 Salón Luna. Todos los derechos reservados."
+  }
+}
